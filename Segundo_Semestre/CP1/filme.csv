@@ -1,0 +1,200 @@
+filmeId,titulo,ano,nota,tempo_minutos,generos
+1,Toy Story,1995,10,185,Infantil
+2,Jumanji,1995,8,120,Aventura
+3,Grumpier Old Men,1995,7,90,Comedia
+4,Waiting to Exhale,1995,8,85,Comedia
+5,Father of the Bride Part II,1995,8,125,Comedia
+6,Heat,1995,10,185,Acao
+7,Sabrina,1995,6,120,Comedia
+8,Tom and Huck,2005,5,70,Aventura
+9,Sudden Death,2003,7,100,Acao
+10,GoldenEye,2001,10,150,Acao
+11,American President,1995,4,120,Comedia
+12,Dracula: Dead and Loving It,1998,4,150,Comedia
+13,Balto,1995,3,140,Aventura
+14,Nixon,2005,2,130,Drama
+15,Cutthroat Island,1995,10,120,Acao
+16,Casino,2005,9,110,Drama
+17,Sense and Sensibility,2006,8,100,Drama
+18,Four Rooms,2007,7,90,Comedia
+19,Ace Ventura: When Nature Calls,2008,6,80,Comedia
+20,Money Train,1989,5,70,Acao
+21,Get Shorty,1999,4,150,Comedia
+22,Copycat,1995,3,140,Drama
+23,Assassins,1998,10,190,Acao
+24,Powder,1956,9,180,Drama
+25,Leaving Las Vegas,1995,8,170,Drama
+26,Othello,1987,7,160,Drama
+27,Now and Then,1995,6,150,Drama
+28,Persuasion,1995,5,140,Drama
+29,City of Lost Children,1956,4,130,Aventura
+30,Shanghai Triad (Yao a yao yao dao waipo qiao),1989,4,130,Drama
+31,Dangerous Minds,1995,3,120,Drama
+32,Twelve Monkeys (a.k.a. 12 Monkeys),1976,10,110,Suspense
+34,Babe,1995,9,100,Drama
+36,Dead Man Walking,1995,8,90,Drama
+38,It Takes Two,1995,7,80,Comedia
+39,Clueless,1978,6,70,Comedia
+40,Cry,1995,5,190,Drama
+41,Richard III,1995,4,180,Drama
+42,Dead Presidents,1995,3,170,Acao
+43,Restoration,1995,2,160,Drama
+44,Mortal Kombat,1995,10,150,Acao
+45,To Die For,1995,9,140,Comedia
+46,How to Make an American Quilt,1995,8,130,Drama
+47,Seven (a.k.a. Se7en),1995,7,120,Suspense
+48,Pocahontas,1995,6,110,Infantil
+49,When Night Is Falling,1995,7,120,Drama
+50,Usual Suspects,1995,6,110,Suspense
+52,Mighty Aphrodite,1995,5,100,Comedia
+53,Lamerica,1994,4,90,Aventura
+54,Big Green,1995,3,80,Comedia
+55,Georgia,1995,10,70,Drama
+57,Home for the Holidays,1995,9,190,Drama
+58,Postman,1994,8,180,Comedia
+60,Indian in the Cupboard,1995,7,170,Aventura
+61,Eye for an Eye,1996,6,160,Drama
+62,Mr. Holland's Opus,1995,5,150,Drama
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,4,150,Comedia
+64,Two if by Sea,1996,3,140,Comedia
+65,Bio-Dome,1996,2,130,Comedia
+66,Lawnmower Man 2: Beyond Cyberspace,1996,10,120,Acao
+68,French Twist (Gazon maudit),1995,9,110,Comedia
+69,Friday,1995,8,100,Comedia
+70,From Dusk Till Dawn,1996,7,90,Acao
+71,Fair Game,1995,6,80,Acao
+72,Kicking and Screaming,1995,5,70,Comedia
+73,Misérables,1995,5,190,Drama
+74,Bed of Roses,1996,4,180,Drama
+75,Big Bully,1996,3,170,Drama
+76,Screamers,1995,10,160,Acao
+77,Nico Icon,1995,9,150,Documentario
+78,Crossing Guard,1995,8,140,Acao
+79,Juror,1996,7,130,Drama
+80,White Balloon,1960,6,120,Infantil
+81,Things to Do in Denver When You're Dead,1995,5,110,Drama
+82,Antonia's Line (Antonia),1995,4,100,Comedia
+83,Once Upon a Time... When We Were Colored,1995,3,90,Drama
+85,Angels and Insects,1995,10,80,Drama
+86,White Squall,1996,9,70,Acao
+87,Dunston Checks In,1996,8,120,Infantil
+88,Black Sheep,1996,7,110,Comedia
+89,Nick of Time,1995,6,100,Acao
+92,Mary Reilly,1996,5,90,Drama
+93,Vampire in Brooklyn,1995,4,80,Comedia
+94,Beautiful Girls,1996,3,70,Comedia
+95,Broken Arrow,1996,10,150,Acao
+96,In the Bleak Midwinter,1995,9,140,Comedia
+97,Hate Haine,1995,8,130,Drama
+99,Heidi Fleiss: Hollywood Madam,1995,7,120,Documentario
+100,City Hall,1996,6,110,Drama
+101,Bottle Rocket,1996,5,100,Aventura
+102,Mr. Wrong,1996,4,90,Comedia
+103,Unforgettable,1996,3,80,Suspense
+104,Happy Gilmore,1996,10,120,Comedia
+105,Bridges of Madison County,1995,9,110,Drama
+106,Nobody Loves Me (Keiner liebt mich),1994,8,100,Comedia
+107,Muppet Treasure Island,1996,7,90,Aventura
+108,Catwalk,1996,6,80,Documentario
+110,Braveheart,1995,5,70,Acao
+111,Taxi Driver,1976,10,190,Drama
+112,Rumble in the Bronx (Hont faan kui),1995,9,180,Acao
+113,Before and After,1996,8,170,Drama
+116,Anne Frank Remembered,1995,7,160,Documentario
+117,Young Poisoner's Handbook,1995,6,150,Drama
+118,If Lucy Fell,1996,5,140,Comedia
+119,Steal Big,1995,4,130,Comedia
+121,Boys of St. Vincent,1992,3,120,Drama
+122,Boomerang,1992,10,110,Comedia
+123,Chungking Express (Chung Hing sam lam),1994,9,100,Drama
+125,Flirting With Disaster,1996,8,90,Comedia
+126,NeverEnding Story III,1994,7,80,Aventura
+128,Jupiter's Wife,1994,6,120,Documentario
+129,Pie in the Sky,1996,5,110,Comedia
+132,Jade,1995,4,100,Suspense
+135,Down Periscope,1996,5,90,Comedia
+137,Man of the Year,1995,4,80,Documentario
+140,Up Close and Personal,1996,3,70,Drama
+141,Birdcage,1996,10,190,Comedia
+144,Brothers McMullen,1995,9,180,Comedia
+145,Bad Boys,1995,8,170,Acao
+146,Amazing Panda Adventure,1995,7,160,Aventura
+147,Basketball Diaries,1995,6,150,Drama
+148,Awfully Big Adventure,1995,5,140,Drama
+149,Amateur,1994,4,130,Drama
+150,Apollo 13,1995,3,120,Aventura
+151,Rob Roy,1995,2,110,Acao
+152,Addiction,1995,10,90,Drama
+153,Batman Forever,1995,9,120,Acao
+154,Beauty of the Day (Belle de jour),1967,8,110,Drama
+155,Beyond Rangoon,1995,7,100,Aventura
+156,Blue in the Face,1995,6,90,Comedia
+157,Canadian Bacon,1995,5,80,Comedia
+158,Casper,1995,10,120,Aventura
+159,Clockers,1995,9,110,Drama
+160,Congo,1995,8,100,Acao
+161,Crash,1995,7,90,Drama
+162,Die Hard: With a Vengeance,1995,6,80,Acao
+163,Don Juan de Marco,1995,5,70,Drama
+164,Donnie Brasco,1997,10,180,Drama
+165,Dragonheart,1996,9,170,Aventura
+167,Dracula: Pages From a Virgin's Diary,1999,8,160,Documentario
+168,Escape from L.A.,1996,7,150,Acao
+169,First Knight,1995,6,140,Drama
+170,For Whom the Bell Tolls,1995,5,130,Drama
+171,Forget Paris,1975,4,120,Comedia
+172,Free Willy 2: The Adventure Home,1995,3,110,Infantil
+173,Forget-Me-Not,1965,2,100,Drama
+174,Dead Man,1985,10,90,Drama
+175,Fear,1975,9,80,Drama
+176,Exit to Eden,1994,8,70,Comedia
+177,First Knight,1995,7,60,Drama
+178,Fellini: I'm a Born Liar,1995,6,50,Documentario
+179,End of the Affair,1999,5,40,Drama
+180,Escape From New York,1981,4,30,Acao
+181,Mighty Morphin Power Rangers: The Movie,2005,5,60,Acao
+183,Mute Witness,1994,10,180,Comedia
+184,Nadja,1964,7,50,Drama
+185,Net The,1975,8,90,Drama
+186,Nine Months,1962,10,80,Comedia
+187,Party Girl,1955,4,40,Comedia
+188,Prophecy,1985,6,90,Acao
+189,Reckless,1999,3,130,Comedia
+190,Safe,1998,7,90,Aventura
+191,Scarlet Letter,1965,8,120,Drama
+193,Showgirls,1994,9,100,Drama
+194,Smoke, 1990,4,30,Comedia
+195,Something to Talk About,1988,10,Comedia
+196,Species,1989,2,80,Aventura
+198,Strange Days,1972,1,70,Aventura
+199,Umbrellas of Cherbourg,1964,2,50,Drama
+201,Three Wishes,1976,5,50,Drama
+202,Total Eclipse,1955,6,60,Drama
+203,To Wong Foo,1967,8,80,Comedia
+204,Under Siege 2: Dark Territory,1965,7,70,Acao
+205,Unstrung Heroes,1982,3,30,Comedia
+206,Unzipped,1967,10,140, Documentario
+207,Walk in the Clouds,1715,6,60,Drama
+208,Waterworld,1982,9,90,Aventura
+209,White Man's Burden,1983,6,70,Drama
+210,Wild Bill,1991,5,50,Western
+211,Browning Version,1994,4,40,Drama
+212,Bushwhacked,1963,9,90,Aventura
+213,Burnt by the Sun,1994,4,40,Drama
+214,Before the Rain,1989,6,60,Drama
+215,Before Sunrise,1967,8,80,Drama
+216,Billy Madison,1986,8,80,Comedia
+217,Babysitter,1988,2,120,Drama
+218,Boys on the Side,1976,1,Comedia
+219,Cure,1984,4,130,Drama
+220,Castle Freak,1962,5,50,Aventura
+222,Circle of Friends,1961,2,120,Drama
+223,Clerks,1964,5,130,Comedia
+224,Don Juan DeMarco,1965,3,90,Comedia
+225,Disclosure,1961,7,70,Drama
+227,Drop Zone,1962,8,80,Acao
+228,Destiny Turns on the Radio,1966,7,50,Comedia
+229,Death and the Maiden,1967,9,90,Drama
+230,Dolores Claiborne,1968,10,100,Drama
+231,Dumb & Dumber,1971,8,90,Aventura
+232,Eat Drink Man Woman,1972,2,120,Comedia
